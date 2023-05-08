@@ -1,0 +1,29 @@
+
+\frametitle{Code Example}
+
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/carbon.png}
+\end{figure}
+\footnote{\href{https://github.com/dawnlabs/carbon}{Carbon}}
+
+% \begin{block}{Code}
+% \begin{lstlisting}
+% def code():
+%   # test comments #1
+%   if True:
+%     for _ in range(5):
+%       print("Hello World 5 times")
+%   return None
+% \end{lstlisting}
+% \end{block}
+
+% \begin{lstlisting}[backgroundcolor = \color{lightgray}]
+% def code():
+%   # test comments #1
+%   if True:
+%     for _ in range(5):
+%       print("Hello World 5 times")
+%   return None
+% \end{lstlisting}
+

@@ -1,0 +1,6 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{General Disease Prediction System}{5}{0}{1}
+\beamer@sectionintoc {2}{\textbf {Types}}{8}{0}{2}
+\beamer@sectionintoc {3}{\textbf {Diabetes Prediction System}}{10}{0}{3}
+\beamer@sectionintoc {4}{\textbf {Lung Cancer Prediction System}}{12}{0}{4}
+\beamer@sectionintoc {5}{\textbf {Heart Disease Prediction System}}{15}{0}{5}
