@@ -1,6 +1,12 @@
 \babel@toc {english}{}\relax 
-\beamer@sectionintoc {1}{General Disease Prediction System}{5}{0}{1}
-\beamer@sectionintoc {2}{\textbf {Types}}{8}{0}{2}
-\beamer@sectionintoc {3}{\textbf {Diabetes Prediction System}}{10}{0}{3}
-\beamer@sectionintoc {4}{\textbf {Lung Cancer Prediction System}}{12}{0}{4}
-\beamer@sectionintoc {5}{\textbf {Heart Disease Prediction System}}{15}{0}{5}
+\beamer@sectionintoc {1}{General Disease Prediction System}{6}{0}{1}
+\beamer@sectionintoc {2}{\textbf {Types}}{9}{0}{2}
+\beamer@sectionintoc {3}{\textbf {Diabetes Prediction System}}{11}{0}{3}
+\beamer@sectionintoc {4}{\textbf {Lung Cancer Prediction System}}{14}{0}{4}
+\beamer@sectionintoc {5}{\textbf {Heart Disease Prediction System}}{17}{0}{5}
+\beamer@sectionintoc {6}{\textbf {Breast Cancer Prediction System}}{20}{0}{6}
+\beamer@sectionintoc {7}{\textbf {Features}}{25}{0}{7}
+\beamer@sectionintoc {8}{\textbf {Applications}}{27}{0}{8}
+\beamer@sectionintoc {9}{\textbf {Future Developments}}{29}{0}{9}
+\beamer@sectionintoc {10}{\textbf {Conclusion}}{31}{0}{10}
+\beamer@sectionintoc {11}{\textbf {References}}{33}{0}{11}
